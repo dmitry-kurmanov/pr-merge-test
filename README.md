@@ -1,3 +1,3 @@
 # pr-merge-test
 
-1
+3
